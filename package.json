@@ -1,0 +1,27 @@
+{
+  "name": "split-after",
+  "version": "0.0.0",
+  "description": "Splits a string at a certain number",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreGarvin/splitnth.git"
+  },
+  "keywords": [
+    "split",
+    "string",
+    "util"
+  ],
+  "author": "Andre Garvin <Yea Boi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreGarvin/splitnth/issues"
+  },
+  "homepage": "https://github.com/andreGarvin/splitnth#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
