@@ -1,1 +1,1 @@
-module.exports=(x,s,n)=>n<x.split(s).length?[x.split(s).slice(0,n).join(s),x.split(s).slice(n).join(s)]:[x]
+module.exports = (str, sep, num)=> num < str.split(sep).length ? [ str.split(sep).slice(0,num).join(sep), str.split(sep).slice(num).join(sep) ] : [ str ]

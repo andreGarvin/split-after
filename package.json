@@ -4,11 +4,11 @@
   "description": "Splits a string at a certain number",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "tape index.test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreGarvin/splitnth.git"
+    "url": "git+https://github.com/andreGarvin/split-after.git"
   },
   "keywords": [
     "split",
@@ -18,10 +18,10 @@
   "author": "Andre Garvin <Yea Boi>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andreGarvin/splitnth/issues"
+    "url": "https://github.com/andreGarvin/split-after/issues"
   },
-  "homepage": "https://github.com/andreGarvin/splitnth#readme",
+  "homepage": "https://github.com/andreGarvin/split-after#readme",
   "devDependencies": {
-    "ava": "^0.25.0"
+    "tape": "^4.9.0"
   }
 }
