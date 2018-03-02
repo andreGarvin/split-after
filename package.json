@@ -1,6 +1,6 @@
 {
   "name": "split-after",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Splits a string at a certain number",
   "main": "index.js",
   "scripts": {
